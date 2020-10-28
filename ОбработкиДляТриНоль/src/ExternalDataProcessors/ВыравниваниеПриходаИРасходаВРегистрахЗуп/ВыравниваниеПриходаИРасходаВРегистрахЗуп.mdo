@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6ea9e51f-68d2-4b20-8e4c-0343e2779048">
+  <producedTypes>
+    <objectType typeId="ce9ccdcf-3c8b-4bda-9c28-292d067ff35b" valueTypeId="39c527d1-20f2-4603-ae23-db2d09056654"/>
+  </producedTypes>
+  <name>ВыравниваниеПриходаИРасходаВРегистрахЗуп</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выравнивание прихода и расхода в регистрах зуп</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="1d6d9363-87c8-4d7e-b214-edb9f2901580"/>
+  <defaultForm>ExternalDataProcessor.ВыравниваниеПриходаИРасходаВРегистрахЗуп.Form.Форма</defaultForm>
+  <forms uuid="8184b96d-b978-4091-a5cc-704d35620bce">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
